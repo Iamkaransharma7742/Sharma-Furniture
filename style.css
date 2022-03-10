@@ -3,6 +3,7 @@ header{
 }
 main{
   min-height: 1000px;
+  border: 1px dotted ;
 }
 footer{
   height: 505px;
